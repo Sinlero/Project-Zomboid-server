@@ -26,7 +26,7 @@ Mods=
 WorkshopItems=
 ```
 
-In ```Mods=``` add Mod ID
+In ```Mods=``` add Mod ID \
 In ```WorkshopItems=``` add Workshop ID
 
 Example
