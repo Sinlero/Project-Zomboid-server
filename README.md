@@ -8,6 +8,8 @@ docker-compose up
 
 # List of our mods
 
+---
+
 [I Don't Need A Lighter](https://steamcommunity.com/sharedfiles/filedetails/?id=2714198296)
 
 Подкуривать от всего
@@ -16,6 +18,8 @@ docker-compose up
 Workshop ID: 2714198296
 Mod ID: NoLighterNeeded
 ```
+
+---
 
 [Wring Out Clothing](https://steamcommunity.com/sharedfiles/filedetails/?id=2696083206)
 
@@ -26,6 +30,8 @@ Workshop ID: 2696083206
 Mod ID: wringclothes
 ```
 
+---
+
 [USMC Armory](https://steamcommunity.com/sharedfiles/filedetails/?id=2611652130)
 
 Броня морпехов
@@ -34,6 +40,8 @@ Mod ID: wringclothes
 Workshop ID: 2611652130
 Mod ID: DRK_1
 ```
+
+---
 
 [Silencer / Suppressor Mod (Build 41)](https://steamcommunity.com/sharedfiles/filedetails/?id=639909479)
 
@@ -44,6 +52,8 @@ Workshop ID: 639909479
 Mod ID: Silencer
 ```
 
+---
+
 [Rain Wash](https://steamcommunity.com/sharedfiles/filedetails/?id=2657661246)
 
 Стираться под дождём
@@ -53,6 +63,8 @@ Workshop ID: 2657661246
 Mod ID: RainWash
 ```
 
+---
+
 [Craft Helper (41.x)](https://steamcommunity.com/sharedfiles/filedetails/?id=2186592938)
 
 Более понятное мменю крафта
@@ -61,6 +73,8 @@ Mod ID: RainWash
 Workshop ID: 2186592938
 Mod ID: CraftHelper41
 ```
+
+---
 
 [Extra Map Symbols](https://steamcommunity.com/sharedfiles/filedetails/?id=2701170568)
 
@@ -72,6 +86,8 @@ Mod ID: ExtraMapSymbols
 Mod ID: ExtraMapSymbolsUI
 ```
 
+---
+
 [Clothes BOX (41)](https://steamcommunity.com/sharedfiles/filedetails/?id=2507488373)
 
 Больше одежды
@@ -80,6 +96,8 @@ Mod ID: ExtraMapSymbolsUI
 Workshop ID: 2507488373
 Mod ID: 2507488373
 ```
+
+---
 
 [Jump Through Windows](https://steamcommunity.com/sharedfiles/filedetails/?id=2688884240)
 
@@ -90,12 +108,16 @@ Workshop ID: 2688884240
 Mod ID: jumpThroughWindows
 ```
 
+---
+
 [Улучшенная буксировка](https://steamcommunity.com/sharedfiles/filedetails/?id=2241990680)
 
 ```text
 Workshop ID: 2241990680
 Mod ID: TowingCar
 ```
+
+---
 
 [SWAT & RIOT PACK for BUILD[41.53+]](https://steamcommunity.com/sharedfiles/filedetails/?id=2091564445)
 
@@ -105,6 +127,8 @@ Mod ID: TowingCar
 Workshop ID: 2091564445
 Mod ID: Swatpack
 ```
+
+---
 
 [Repair Any Clothes](https://steamcommunity.com/sharedfiles/filedetails/?id=2142622992)
 
@@ -118,6 +142,8 @@ Mod ID: RepairAnyClothes
 Mod ID: RepairAnySWAT
 ```
 
+---
+
 [Just Throw Them Out The Window](https://steamcommunity.com/sharedfiles/filedetails/?id=2659216714)
 
 Кидать трупы в окно
@@ -126,6 +152,8 @@ Mod ID: RepairAnySWAT
 Workshop ID: 2659216714
 Mod ID: OutTheWindow
 ```
+
+---
 
 [GK's Realistic Professions (Build 41)](https://steamcommunity.com/sharedfiles/filedetails/?id=2204106513)
 
@@ -136,6 +164,8 @@ Workshop ID: 2204106513
 Mod ID: GKRealisticProfessions41
 ```
 
+---
+
 [Better Sorting](https://steamcommunity.com/sharedfiles/filedetails/?id=2313387159)
 
 Улучшенная сортировка
@@ -144,6 +174,8 @@ Mod ID: GKRealisticProfessions41
 Workshop ID: 2313387159
 Mod ID: BetterSortCC
 ```
+
+---
 
 [Attach Items to Backpacks (build 41)](https://steamcommunity.com/sharedfiles/filedetails/?id=2048847068)
 
@@ -154,6 +186,8 @@ Workshop ID: 2048847068
 Mod ID: backpackattachments
 ```
 
+---
+
 ['86 Oshkosh P19A + Military Trailers](https://steamcommunity.com/sharedfiles/filedetails/?id=2566953935)
 
 Военные фуры
@@ -162,6 +196,8 @@ Mod ID: backpackattachments
 Workshop ID: 2566953935
 Mod ID: 86oshkoshP19A
 ```
+
+---
 
 ['67 Cadillac Gage Commando](https://steamcommunity.com/sharedfiles/filedetails/?id=2478247379)
 
@@ -172,6 +208,8 @@ Workshop ID: 2478247379
 Mod ID: 67commando
 ```
 
+---
+
 ['92 AM General M998 + M101A3 Cargo trailer](https://steamcommunity.com/sharedfiles/filedetails/?id=2642541073)
 
 Хамви с прицепами
@@ -181,6 +219,8 @@ Workshop ID: 2642541073
 Mod ID: 92amgeneralM998
 ```
 
+---
+
 [Expanded Helicopter Events](https://steamcommunity.com/sharedfiles/filedetails/?id=2458631365)
 
 События с вертолетами
@@ -189,6 +229,8 @@ Mod ID: 92amgeneralM998
 Workshop ID: 2458631365
 Mod ID: ExpandedHelicopterEvents
 ```
+
+---
 
 [Tsar's Common Library](https://steamcommunity.com/sharedfiles/filedetails/?id=2392709985)
 
