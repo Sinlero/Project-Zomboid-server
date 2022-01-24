@@ -1,14 +1,51 @@
 Original server image: [afey/zomboid](https://hub.docker.com/r/afey/zomboid)
 
+Before start create folder: ```server-data```
+
 Start server
 
 ```bash
 docker-compose up
 ```
 
-# List of our mods
+---
+
+# Installing mods
+
+Open
+
+```text
+server-data/Server/{name-server}.ini
+```
+
+Find params
+
+```text
+Mods=
+...
+WorkshopItems=
+```
+
+In ```Mods=``` add Mod ID
+In ```WorkshopItems=``` add Workshop ID
+
+Example
+
+```text
+Mods=NoLighterNeeded;wringclothes;DRK_1
+WorkshopItems=2714198296;2696083206;2611652130
+```
+
+Restart server
+
+```bash
+docker-compose down; docker-compose up -d
+```
 
 ---
+
+# List of our server mods
+
 
 [I Don't Need A Lighter](https://steamcommunity.com/sharedfiles/filedetails/?id=2714198296)
 
