@@ -104,7 +104,7 @@ Mod ID: RainWash
 
 [Craft Helper (41.x)](https://steamcommunity.com/sharedfiles/filedetails/?id=2186592938)
 
-Более понятное мменю крафта
+Более понятное меню крафта
 
 ```text
 Workshop ID: 2186592938
