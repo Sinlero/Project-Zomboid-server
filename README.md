@@ -154,6 +154,42 @@ Workshop ID: 2048847068
 Mod ID: backpackattachments
 ```
 
+['86 Oshkosh P19A + Military Trailers](https://steamcommunity.com/sharedfiles/filedetails/?id=2566953935)
+
+Военные фуры
+
+```text
+Workshop ID: 2566953935
+Mod ID: 86oshkoshP19A
+```
+
+['67 Cadillac Gage Commando](https://steamcommunity.com/sharedfiles/filedetails/?id=2478247379)
+
+БТРы
+
+```text
+Workshop ID: 2478247379
+Mod ID: 67commando
+```
+
+['92 AM General M998 + M101A3 Cargo trailer](https://steamcommunity.com/sharedfiles/filedetails/?id=2642541073)
+
+Хамви с прицепами
+
+```text
+Workshop ID: 2642541073
+Mod ID: 92amgeneralM998
+```
+
+[Expanded Helicopter Events](https://steamcommunity.com/sharedfiles/filedetails/?id=2458631365)
+
+События с вертолетами
+
+```text
+Workshop ID: 2458631365
+Mod ID: ExpandedHelicopterEvents
+```
+
 [Tsar's Common Library](https://steamcommunity.com/sharedfiles/filedetails/?id=2392709985)
 
 Основа для ЦАРЬ модов
