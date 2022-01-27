@@ -269,6 +269,17 @@ Mod ID: ExpandedHelicopterEvents
 
 ---
 
+[Scrap Weapons!](https://steamcommunity.com/sharedfiles/filedetails/?id=2122265954)
+
+Оружие ближнего боя из хлама
+
+```text
+Workshop ID: 2122265954
+Mod ID: ScrapWeapons(new version)
+```
+
+---
+
 [Tsar's Common Library](https://steamcommunity.com/sharedfiles/filedetails/?id=2392709985)
 
 Основа для ЦАРЬ модов
